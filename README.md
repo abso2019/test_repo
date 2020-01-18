@@ -2,7 +2,7 @@
 
 This is my *first* repo.
 
-good cat:
+awsome cat:
 
+![awsome cat](./cat.gif)
 
-![good cat](./cat.gif)
